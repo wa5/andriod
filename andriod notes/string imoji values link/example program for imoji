@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hello_vishnu </string>
+    <string name="ap">I am happy &#128522;</string>
+    <string name="ap1">I am happy &#x1F600;</string>
+</resources>
